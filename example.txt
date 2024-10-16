@@ -1,0 +1,6 @@
+Dòng ban đầu
+Thay đổi từ nhánh main
+Thay đổi từ nhánh feature
+Dòng mới trong file
+Thay đổi tạm thời
+parent of 5252119 (Chỉnh sửa từ nhánh main)
